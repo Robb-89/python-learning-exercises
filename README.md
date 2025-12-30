@@ -1,2 +1,1 @@
-# didactic-robot
-Learning Lessons. 
+Python fundamentals & code practice examples.
