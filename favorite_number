@@ -1,7 +1,0 @@
-#!/usr/bin/python3 
-
-my_favorite_number = 8 
-
-guess = "My favorite number is simple, Maybe a octagon?"
-
-print(guess)
